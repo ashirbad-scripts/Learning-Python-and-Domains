@@ -6,3 +6,4 @@
 - Added fallback error - handling mechanism
 - Learned the use of time functions
 - Gained more clarity on file handling
+- 
